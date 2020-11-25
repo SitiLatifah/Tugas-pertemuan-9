@@ -1,12 +1,13 @@
 # Tugas-pertemuan-9
-# labspy04and05
+# labs04andLabs05
 **Nama	   	: Siti Latifah** <br>
 **Nim	  	  : 312010321** <br>
 **Kelas	  	: TI.20.A2** <br>
 **Matkul	  : Bahasa Pemrograman** <br>
+
 # Praktikum 4
 ## Latihan 4
-<img width="347" alt="latihan 04" src="https://user-images.githubusercontent.com/73053784/100190597-308e7200-2f21-11eb-8737-845dfb0c67b6.png">
+![Screenshot (51)](https://user-images.githubusercontent.com/73010098/100236679-8fbfa700-2f60-11eb-8d48-7044da88b716.png)
 
 ## Syntax
 
@@ -42,13 +43,13 @@ print('Menambahkan ListB dengan data string : ',ListB)
 ListC = ListA + ListB
 print("Menggabungkan ListA dan ListB : ",ListC)
 ```
-##OUTPUT
+## OUTPUT
 ![Screenshot (39)](https://user-images.githubusercontent.com/73010098/100231492-ac0c1580-2f59-11eb-8cab-2baee2b94d6e.png)
 
-##Tugas Praktikum 4
+## Tugas Praktikum 4
 ![Screenshot (40)](https://user-images.githubusercontent.com/73010098/100231831-2046b900-2f5a-11eb-8cc4-2d6e0b8e2670.png)
 
-##Syntax
+## Syntax
 ```python
 data = []
 while True :
